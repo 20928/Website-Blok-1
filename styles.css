@@ -1,0 +1,30 @@
+<style>
+h1{
+font-size: 50px;
+text-shadow: 3px 2px red;
+text-align: center;
+}
+
+body{
+background-color:#A9F5F2;
+}
+
+a{
+color:darkblue;
+}
+
+p{
+color:limegreen;
+text-align: center;
+font-size: 17px;
+}
+
+ul{
+color:darkred;
+text-align: 21px;
+}
+
+li{
+color:darkred;
+font-size: 17px
+}
